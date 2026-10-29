@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="chronocontrol"
+version="1.0.0"
+displayName="Chrono Control"
+authors="Chrono Control"
+description='''Player snapshots, rewind, and world time controls.'''
+
+[[dependencies.chronocontrol]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.chronocontrol]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
