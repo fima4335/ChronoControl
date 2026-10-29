@@ -1,0 +1,7 @@
+{
+  "key.categories.chronocontrol": "Chrono Control",
+  "key.chronocontrol.snapshot": "Save time snapshot",
+  "key.chronocontrol.rewind": "Rewind to snapshot",
+  "key.chronocontrol.speed": "Cycle time speed",
+  "key.chronocontrol.pause": "Pause / resume time"
+}
