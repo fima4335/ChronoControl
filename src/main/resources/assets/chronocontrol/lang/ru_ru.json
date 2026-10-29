@@ -1,0 +1,7 @@
+{
+  "key.categories.chronocontrol": "Chrono Control",
+  "key.chronocontrol.snapshot": "Сохранить снимок времени",
+  "key.chronocontrol.rewind": "Откат к снимку",
+  "key.chronocontrol.speed": "Изменить скорость времени",
+  "key.chronocontrol.pause": "Остановить / возобновить время"
+}
